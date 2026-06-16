@@ -1,0 +1,6 @@
+Dataset used in this project:
+
+StyleGAN and StyleGAN2 DeepFake Face Images
+https://www.kaggle.com/datasets/kshitizbhargava/deepfake-face-images
+
+The full dataset is not uploaded to GitHub because of file size limitations.
